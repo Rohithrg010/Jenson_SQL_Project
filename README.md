@@ -1,23 +1,6 @@
-# Jenson SQL Analysis Project
-
-This project uses SQL to analyze the Jenson USA retail dataset and derive business insights related to customers, staff, and inventory performance.
-
-## Tools
-- MySQL / SQL Server
-- Excel for visualization
-
-## Key Insights
-- Top-performing stores and products
-- Most valuable customers
-- Staff performance analysis
-- Inventory optimization strategies
-
-## Files
-- BikeStores Sample Database - create objects.sql
-- classic_models_dataset.zip
-- Jensen_SQL_Milestone Project.pdf
-
-Author: Rohith Gowda Ranganatha
-Email: rranganatha@wisc.edu
-LinkedIn: [linkedin.com/in/rohith010](https://www.linkedin.com/in/rohith010/)
-
+Focus Area,Key Finding / Insight,Business Recommendation
+Store Operations,"Baldwin Bikes is the top-performing store with 4,779 products sold; other stores significantly underperform.",Investigate logistical models at top-performing stores (Baldwin) and apply best practices to increase sales volume at others.
+Inventory Optimization,"Identified the Top 3 most in-demand products (e.g., Electra Cruiser) alongside products that have never been ordered (Trek 820-2016).",Implement a stock review process to ensure high-demand products are prioritized and liquidate or discontinue zero-demand inventory for cost savings.
+Staff Performance,Identified specific staff members who consistently generate sales above the team average.,Designate top performers as mentors and implement a performance bonus or recognition structure to motivate the entire sales staff.
+Pricing Strategy,"The median product price is $7,499.00, indicating a market for premium and high-value items.",Use the median price as a benchmark to assess the profitability of new product lines and maintain competitive pricing across the catalog.
+Customer Segmentation,Identified highly engaged customers who have purchased products across all available categories.,Create a specialized loyalty program for these high-value buyers to maximize customer retention and lifetime value.
